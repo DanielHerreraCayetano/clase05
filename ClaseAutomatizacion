@@ -1,0 +1,9 @@
+public class ClaseAutomatizacion implements Automatizar{
+
+    private int var;
+
+    public Automatizar(înt var){
+    this.var = var;}
+
+
+}
