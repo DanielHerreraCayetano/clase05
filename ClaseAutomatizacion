@@ -1,4 +1,4 @@
-public class ClaseAutomatizacion implements Automatizar{
+public class ClaseAutomatizacion{
 
     private int var;
 
